@@ -1,4 +1,4 @@
-phonegapAPP
+SikhGurusHistory
 ===========
 
-a phonegap webapp
+A app dedicated to the history of sikh gurus.
