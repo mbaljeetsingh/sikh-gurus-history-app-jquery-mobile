@@ -14,6 +14,6 @@ A simple application dedicated to the history of sikh(religion) gurus.
 Baljeet Singh
 </author>
 
-<icon href='icon.png' />
+<icon src="icon.png" gap:platform="android" gap:density="ldpi"  />
 
 </widget>
