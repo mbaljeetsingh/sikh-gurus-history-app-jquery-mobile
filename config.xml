@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
+    id        = "com.tenthgeek.sikhhistoryapp"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Sikh Gurus History</name>
 
 <description>
-A simple PhoneGap Build application.
+A simple application dedicated to the history of sikh(religion) gurus.
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="https://www.tenthgeek.blogspot.com/" email="bsinghs.007@gmail.com">
+Baljeet Singh
 </author>
+
+<icon href="icon.png"> </icon>
 
 </widget>
